@@ -1,9 +1,9 @@
 ########################################################################################################################
-# # To run below code on your local environment, Please install QT wallet / RPC c0ban node.                            #
-# # See more information here:                                                                                         #
-# #                              https://www.c0ban.co/                                                                 #
-# #                              https://github.com/c0ban/c0ban/releas                                                 #
-# #                                                                                                                    #
+# # To run below code on your local environment, Please install QT wallet / RPC c0ban node.                          # #
+# # See more information here:                                                                                       # #
+# #                              https://www.c0ban.co/                                                               # #
+# #                              https://github.com/c0ban/c0ban/releas                                               # #
+# #                                                                                                                  # #
 ########################################################################################################################
 
 import datetime as dt
